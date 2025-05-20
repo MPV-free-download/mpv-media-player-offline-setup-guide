@@ -11,15 +11,15 @@
 
 🎯 What You Unlock
 
-    ▶️ Support for wide range of video and audio formats
+▶️ Support for wide range of video and audio formats
 
-    ⚙️ Highly customizable via configuration files and scripts
+⚙️ Highly customizable via configuration files and scripts
 
-    🖥 Lightweight and resource-efficient media playback
+🖥 Lightweight and resource-efficient media playback
 
-    🔌 Offline setup with no need for online dependencies
+🔌 Offline setup with no need for online dependencies
 
-    🛠 Advanced subtitle, hardware acceleration, and filter options
+🛠 Advanced subtitle, hardware acceleration, and filter options
 
 🖼 Preview
 
